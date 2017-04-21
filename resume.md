@@ -1,100 +1,94 @@
-Johnny Coder
+Kuya Takami
 ============
-
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Specialization: Robotics, Perception, Estimation, Learning\
+>  Web: [kuyatakami.com](kuyatakami.com), Github: [https://github.com/ku-ya](https://github.com/ku-ya)
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2011-2015
+: **Ph.D., Mechanical Engineering**; Virginia Polytechnic Institute and State University
+  *Thesis:  ``Non-Field-of-View Acoustic Target Estimation''*
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+2009-2011
+: **M.S., Mechanical Engineering**; University of Wisconsin-Madison
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+2004-2008
+: **B.S., Biomedical Engineering**; University of Wisconsin-Madison
 
 Experience
 ----------
+2016-Present
+: **Postdoctoral Research Fellow:** The George Washington University
+: Mechanical & Aerospace Engineering, Flight Dynamics and Control Lab - Prof. Taeyoung Lee
 
-**Your Most Recent Work Experience:**
+    * Conducting research on probabilistic multi-UAV (Unmanned Aerial Vehicle) autonomous exploration and Simultaneous Localization and Mapping.
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+    * Developed deep learning based sensor upstream enhancement on mobile robot depth perception with combination of probabilistic time dependence.
 
-* First item
+2015-2016
+: **Postdoctoral Research Fellow** Virginia Tech
+: Computational Multiphysics and Systems Lab - Prof. Tomonari Furuakwa
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+    * Primary researcher on National Science Foundation EAGER project, non-line-of-sight (NLOS) target localization in an unknown environment.
 
-**That Other Job You Had**
+    * Developed probabilistic approach to NLOS visual/ acoustical target estimation based on recursive Bayesian estimation framework, and conducting test on human/ mobile sensor platform for human-robot-interaction.
 
-Also with a short description.
+    * Collaboration with Daniel Kish, president of World Access for the Blind, for perception of acoustic diffraction and reflection signal processing for human echolocation experts.
 
-Technical Experience
---------------------
+    * Leader of Mohamed Bin Zayed International Robotics Challenge 2017 mobile manipulator team for perception, navigation, and manipulation.
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+    * Developing an autonomous car and associative technologies including new sensors for a project sponsored by General Motors and Murata Manufacturing.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * Advising MS students for the NSF EAGER project and mentoring a senior design project, Self-Driving Vehicle Team, consisting of nine senior students.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+08/2011 - 09/2015
+: **Graduate Research Assistant/ Graduate Teaching Assistant**
+
+    * Developed NLOS hybrid optical/acoustical target localization scheme to model and predict the state of sound source in a complex environment
+
+    * Assisted underwater autonomous navigation project on sonar localization simulation using simultaneous localization and mapping (SLAM) funded by Office of Naval Research
+
+    * Worked on real-time autonomous driving using Grid-based SLAM in collaboration with ZMP and University of Technology, Sydney
+
+    * Worked on tire noise prediction model entailing mathematical formulations, and fluid-solid interaction modeling funded by NSF Center for Tire Research
+
+05 - 08/2014
+: **Advanced Tire Technology - Research Intern, Bridgestone Americas, Inc** Akron, OHAkron, OH
+
+    * Developed tire noise analysis procedure and designed and implemented tire noise experimental device based on an FPGA controller.
+
+01 - 07/2013
+: **Research Engineer - Autonomous Vehicles, ZMP, Inc** Tokyo, Japan
+
+    * Assisted programming and hardware development for an autonomous driving vehicle, including data acquisition, implementation of SLAM, and vehicle modeling/control.
+
+     * Designed and constructed a quadrupedal machine learning-based evolving robot by calculating kinematics and specifying components.
+
+(03/2009 - 08/2011)
+: Graduate Research Assistant for Engine Research Center
+
+    * Conducted laser and fiber optics centered research optimizing optical element design in harsh environments.
+
+    * Developed a noninvasive laser grid tomography temperature measurement system for jet and IC engines.
+
+Skills
+------
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   C++ (8/10), Python (7/10)
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+Software & CAD
+: ROS, MATLAB, SolidWorks, PTC Creo
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+Languages
+: English, Japanese (native), Spanish (elementary)
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
 ----------------------------------------
 
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <kuya@gwu.edu> • +01 (414)-212-5155\
+> address - 2818 N Glade St NW Washington, DC

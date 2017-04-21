@@ -4,7 +4,7 @@ pdf: resume.pdf
 resume.pdf: resume.md
 	pandoc --standalone --template style_chmduquesne.tex \
 	--from markdown --to context \
-	-V papersize=A4 \
+	-V papersize=letter \
 	-o resume.tex resume.md; \
 	context resume.tex
 
