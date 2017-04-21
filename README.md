@@ -1,7 +1,7 @@
 The Markdown Resume
 ===================
 
-Original files from mszep/pandoc_redume
+Original files from mszep/pandoc_resume
 
 Instructions:
 
