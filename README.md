@@ -1,6 +1,8 @@
 The Markdown Resume
 ===================
 
+Original files from mszep/pandoc_redume
+
 Instructions:
 
     git clone https://github.com/mszep/pandoc_resume
