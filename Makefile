@@ -3,6 +3,7 @@ all: html pdf docx rtf
 pdf: resume.pdf
 resume.pdf: resume.md
 	pandoc --standalone --template style_chmduquesne.tex \
+    --filter pandoc-citeproc --bibliography paper.bib \
 	--from markdown --to context \
 	-V papersize=letter \
 	-o resume.tex resume.md; \

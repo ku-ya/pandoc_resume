@@ -30,7 +30,7 @@ Experience
 
     * Conducting research on probabilistic multi-UAV (Unmanned Aerial Vehicle) autonomous exploration and Simultaneous Localization and Mapping.
 
-    * Developed deep learning based sensor upstream enhancement on mobile robot depth perception with combination of probabilistic time dependence.
+    * Developed deep learning based sensor upstream enhancement on mobile robot depth perception with combination of probabilistic time dependence information.
 
 2015-2016
 : **Postdoctoral Research Fellow:** Virginia Tech
@@ -40,7 +40,7 @@ Experience
 
     * Developed probabilistic approach to NLOS visual/ acoustical target estimation based on recursive Bayesian estimation framework, and conducting test on human/ mobile sensor platform for human-robot-interaction.
 
-    * Collaboration with Daniel Kish, president of World Access for the Blind, for perception of acoustic diffraction and reflection signal processing for human echolocation experts.
+    * Collaborated with Daniel Kish, president of World Access for the Blind, for perception of acoustic diffraction and reflection signal processing for human echolocation experts.
 
     * Leader of Mohamed Bin Zayed International Robotics Challenge 2017 mobile manipulator team for perception, navigation, and manipulation.
 
@@ -77,16 +77,18 @@ Experience
     * Developed a noninvasive laser grid tomography temperature measurement system for jet and IC engines.
 
 
-Selected publications
+Publications
 ---------
 
-[Google scholar](https://scholar.google.com/citations?user=yU33tGsAAAAJ&hl=en&oi=ao)
+Journal(5)
+: Springer Jounal of Intelligent & Robotic Systems, Autonomous Robots, Springer Tracts in Advanced Robotics, Sensor Journa IEEE, Journal of Applied Optics
 
-Journal (2/5)
-: 
+Conference(9)
+: Internaltional Conference on Intelligent Robots and Systems (IROS), International Conference on Information Fusion, Multi-sensor Integration and Fusion, Field and Service Robotics, ASME
 
-Conference (3/9)
-:
+Online
+: [Link to Google scholar for publication details](https://scholar.google.com/citations?user=yU33tGsAAAAJ&hl=en&oi=ao): 
+
 
 Skills
 -------------
