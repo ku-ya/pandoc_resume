@@ -87,7 +87,7 @@ Conference(9)
 : Internaltional Conference on Intelligent Robots and Systems (IROS), International Conference on Information Fusion, Multi-sensor Integration and Fusion, Field and Service Robotics, ASME
 
 Online
-: [Link to Google scholar for publication details](https://scholar.google.com/citations?user=yU33tGsAAAAJ&hl=en&oi=ao): 
+: [Link to Google scholar for publication details](https://scholar.google.com/citations?user=yU33tGsAAAAJ&hl=en&oi=ao)
 
 
 Skills
