@@ -3,7 +3,7 @@ Kuya Takami
 
 ----
 
->  Specialization: Robotics, Perception, Estimation, Learning, Mobile robots\
+>  Specialization: Robotics, Perception, Estimation, Learning, Mobile robots, Autonomous systems\
 >  Web: [kuyatakami.com](http://kuyatakami.com), Github: [https://github.com/ku-ya](https://github.com/ku-ya)
 
 ----
@@ -12,14 +12,14 @@ Education
 ---------
 
 2011-2015
-: **Ph.D., Mechanical Engineering**; Virginia Polytechnic Institute and State University
-  *Thesis:  ``Non-Field-of-View Acoustic Target Estimation''*
+: **Ph.D., Mechanical Engineering** Virginia Polytechnic Institute & State University
+:  *Thesis:  "Non-Field-of-View Acoustic Target Estimation"*
 
 2009-2011
-: **M.S., Mechanical Engineering**; University of Wisconsin-Madison
+: **M.S., Mechanical Engineering** University of Wisconsin-Madison
 
 2004-2008
-: **B.S., Biomedical Engineering**; University of Wisconsin-Madison
+: **B.S., Biomedical Engineering** University of Wisconsin-Madison
 
 Experience
 ----------
@@ -69,7 +69,7 @@ Experience
 
      * Designed and constructed a quadrupedal machine learning-based evolving robot by calculating kinematics and specifying components.
 
-(03/2009 - 08/2011)
+03/2009 - 08/2011
 : **Graduate Research Assistant for Engine Research Center:** University of Wisconsin Madison
 
     * Conducted laser and fiber optics centered research optimizing optical element design in harsh environments.
@@ -93,11 +93,11 @@ Online
 Skills
 -------------
 
-| **Programming Language** |  **Software/CAD** | **Languages** |
-|----------|:-------------:|------|
-| C++ (8/10) | ROS | English |
-| Python (7/10) | SolidWorks |   Japanese (native) |
-| Matlab (8/10) | PTC Creo | Spanish (elementary)|
+| **Programming** | **System** |  **Software/CAD** | **Languages** |
+|----------|----|-----|------|
+| C++ (8/10) | Linux | ROS | English |
+| Python (7/10) | OSX | SolidWorks |   Japanese (native) |
+| Matlab (9/10) | Windows |PTC Creo | Spanish (elementary)|
 
 ----------------------------------------
 
