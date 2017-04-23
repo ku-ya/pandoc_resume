@@ -1,9 +1,11 @@
 ## Education
 
-**Virginia Polytechnic Institute and State University**
+- **Virginia Polytechnic Institute and State University**
 
 Ph.D. Mechanical Engineering
 
-M.S.
+- **University of Wisconsin - Madison**
+
+> M.S.
 
 B.S.

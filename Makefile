@@ -31,3 +31,4 @@ clean:
 	rm -f resume.pdf
 	rm -f resume.docx
 	rm -f resume.rtf
+	rm -r build/*

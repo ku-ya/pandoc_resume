@@ -10,8 +10,10 @@ for i in $(ls $src/*.md) ; do
 done
 
 pandoc -s -f markdown -t html5\
-    -o $build/full.html\
+    -o $build/index.html\
     -A $build/short_description.html\
     -A $build/education.html\
+    -A $build/publications.html\
+    -A $build/skills.html\
     $src/cv.md
 
